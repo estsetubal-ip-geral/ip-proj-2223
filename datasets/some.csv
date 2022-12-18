@@ -1,0 +1,18 @@
+#										
+# some.csv										
+#										
+#										
+# list of persons to add to datafile						
+
+		
+id	first_name	last_name	address	email	birth_date	gender	zip	country_code	dep	is_active
+426	Constantin	Gowdridge	2, Old Gate Point	cgowdridge0@chicagotribune.com	1994-02-02	Male	28400	CN	Finance	1
+422	Carine	Proschke	94822, John Wall Court	cproschke4@umich.edu	1956-01-27	Female	17800	CN	Sails	1
+218	Lorain	Regus	410, Becker Plaza	lregusa@blinklist.net	1969-05-04	Female	28300	PH	Finance	1
+843	Issie	Phear	5, Kingsford Avenue	ipheard@samsung.com	1973-09-15	Female	44300	MQ	Sails	1
+373	Reyna	Audenis	2955, Mosinee Court	raudenise@vimeo.com	1965-05-26	Female	17800	AL	Sails	1
+109	Cele	Skerrett		cskerretti@bing.com	2001-02-29	Female	39900	CN	Finance	1
+416	Nollie	Yaakov	8776 Porter Trail	nyaakovk@addtoany.net	1980-10-03	Female	17800	SY	Finance	1
+292	Sissy	Wetton	78535, Morrow Circle	swettonl@abc.net.au	1987-09-27	Female	10300	KE	Human Resources	1
+596	Patrica	Tuftin	104, Carberry Place	ptuftinr@statcounter.edu	1960-07-14	Female	19100	ID	Computing	1
+739	Pamela	Fishpool		pfishpools@list-manage.com	1998-06-01	Female	26000	CN	Finance	1

@@ -1,0 +1,37 @@
+# person.csv									
+#										
+#										
+# list of persons to add to datafile										
+
+     	
+id	first_name	last_name	address	email	birth_date	gender	zip	country_code	dep	is_active
+426	Constantin	Gowdridge	2, Old Gate Point	cgowdridge0@chicagotribune.com	1994-02-02	Male	28400	CN	Finance	1
+863	Gabi	Shegog	82, Manufacturers Terrace	gshegog1@go.com	1943-05-23	Female	13000	PX	Human Resources	1
+604	Timothy	Van Hesteren	21, Old Gate Road	tvanhesteren2@github.com	1962-10-24	Male	10700	CA	Finance	1
+950	Francyne	Hastie	051, Westerfield Center	fhastie3@bloglines.net	1977-07-03	Female	44300	PL	Sails	1
+422	Carine	Proschke	94822, John Wall Court	cproschke4@umich.edu	1956-01-27	Female	17800	CN	Sails	1
+490	Lacee	Brayne	48383, Nevada Lane	lbrayne5@alexa.com	1959-08-04	Female	31000	PT	Finance	0
+217	Anselm	Ledgister	5, Pepper Wood Pass	aledgister6@amazon.de	2000-02-29	Male	19100	CN	Computing	1
+834	Umeko	Coggill	070, Bartelt Junction	ucoggill7@cbslocal.com	1950-12-09	Female	26000	CN	Computing	1
+916	Klaus	Emblow	8575, Upham Road	kemblow8@flickr.com	1955-07-14	Male	41100	ID	Finance	0
+564	Barny	Robertucci	5592, Crest Line Pass	brobertucci9@rediff.com	1995-02-11	Male	22600	CN	Sails	1
+218	Lorain	Regus	410, Becker Plaza	lregusa@blinklist.net	1969-05-04	Female	28300	PH	Finance	1
+455	Demetria	Hedger	12, Eliot Avenue	dhedgerb@xinhuanet.net	1952-08-09	Female	34000	PT	Human Resources	1
+394	Sianna	Hrycek	50, Armistice Avenue	shrycekc@bbb.org	1979-11-19	Female	18600	BR	Finance	1
+843	Issie	Phear	5, Kingsford Avenue	ipheard@samsung.com	1973-09-15	Female	44300	MQ	Sails	1
+373	Reyna	Audenis	2955, Mosinee Court	raudenise@vimeo.com	1965-05-26	Female	17800	AL	Sails	1
+949	Karlotte	Pomeroy		kpomeroyf@facebook.com	1977-15-37	Female	31000	GR	Finance	1
+784	Lydie	Rickasse		lrickasseg@virginia.edu	1980-03-31	Female	19100	PT	Computing	1
+902	Juan	Gliddon	3, Mcguire Court	jgliddonh@boston.com	1967-11-30	Male	26000	CA	Computing	1
+109	Cele	Skerrett		cskerretti@bing.com	2001-02-29	Female	39900	CN	Finance	1
+785	Kimmi	Conklin	56600, Buhler Terrace	kconklinj@archive.org	1994-02-30	Female	27100	ID	Sails	0
+416	Nollie	Yaakov	8776 Porter Trail	nyaakovk@addtoany.net	1980-10-03	Female	17800	SY	Finance	1
+292	Sissy	Wetton	78535, Morrow Circle	swettonl@abc.net.au	1987-09-27	Female	10300	KE	Human Resources	1
+318	Raimondo	Filyakov		rfilyakovm@walmart.com	1956-07-11	Male	30900	PT	Finance	1
+113	Ralina	Firk	13, Thackeray Pass	rfirkn@utexas.edu	1972-01-17	Female	29500	PH	Sails	0
+658	Rudolf	Henniger	044, Susan Crossing	rhennigero@photobucket.edu	1992-10-08	Male	44300	PX	Sails	1
+379	Ramsay	Hinkensen	5, 5th Avenue	rhinkensenp@yale.edu	1974-02-12	Male	17800	PT	Finance	1
+631	Mort	Skellington		mskellingtonq@netscape.com	1982-11-31	Male	31000	PT	Computing	0
+596	Patrica	Tuftin	104, Carberry Place	ptuftinr@statcounter.edu	1960-07-14	Female	19100	ID	Computing	1
+739	Pamela	Fishpool		pfishpools@list-manage.com	1998-06-01	Female	26000	CN	Finance	1
+495	Esme	Zack	20-22, IPS-Box Office	ezackt@nba.com	1982-06-31	Male	15900	PT	Sails	0
